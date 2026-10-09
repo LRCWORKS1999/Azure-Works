@@ -1,4 +1,4 @@
-# Lab 01 - Azure Storage Accounts
+# Lab 02 - Azure Storage Accounts
 
 ## Objective
 
