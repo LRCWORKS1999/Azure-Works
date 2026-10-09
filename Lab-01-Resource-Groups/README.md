@@ -1,13 +1,1 @@
-Lab 01 - Azure Resource Groups
-Objective
-Learn how Azure Resource Groups work.
-
-Tasks Completed
-Created a Resource Group
-Selected a region
-Added tags
-What I Learned
-Resource Groups allow Azure resources to be organised and managed together.
-
-Screenshots
-To be added.
+# Lab 01 - Azure Resource Groups ## Objective Learn how Azure Resource Groups work. ## Tasks Completed - Created a Resource Group - Selected a Region - Added Tags ## What I Learned Resource Groups allow Azure resources to be organised and managed together. ## Screenshots To be added. ## Next Steps - Create a Storage Account - Learn Azure Resource organisation - Understand Tags
