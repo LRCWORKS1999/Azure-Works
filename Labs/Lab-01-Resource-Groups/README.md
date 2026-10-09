@@ -1,4 +1,4 @@
-# Lab 01 - Resource Groups
+# Lab 01 - Azure Resource Groups
 
 ## Objective
 
@@ -8,11 +8,26 @@ Learn how Azure Resource Groups work.
 
 - Created a Resource Group
 - Selected a Region
+- Added Tags
+
+## Resource Group Details
+
+Name: RG-AzureWorks-Lab01
+
+Region: UK South
+
+Tags:
+
+Environment = Lab
 
 ## What I Learned
 
-Resource Groups act as logical containers for Azure resources.
+Resource Groups provide a logical container for Azure resources.
+
+Resources can be grouped together for administration, monitoring and deletion.
+
+Tags can be used for organisation and cost tracking.
 
 ## Screenshots
 
-_To be added_
+To be added.
