@@ -18,7 +18,7 @@ This repository documents my journey learning Microsoft Azure, studying for AZ-1
 - [x] Lab 03 - Virtual Networks
 - [x] Lab 04 - Virtual Machines
 - [x] Lab 05 - Entra ID
-- [ ] Lab 06 - RBAC
+- [x] Lab 06 - RBAC
 - [ ] Lab 07 - MFA
 - [ ] Lab 08 - Azure Backup
 - [ ] Lab 09 - Azure VPN
