@@ -15,8 +15,8 @@ This repository documents my journey learning Microsoft Azure, studying for AZ-1
 
 - [x] Lab 01 - Resource Groups
 - [x] Lab 02 - Storage Accounts
-- [ ] Lab 03 - Virtual Machines
-- [x] Lab 04 - Virtual Networks
+- [x] Lab 03 - Virtual Networks
+- [ ] Lab 04 - Virtual Machines
 - [ ] Lab 05 - Entra ID
 - [ ] Lab 06 - RBAC
 - [ ] Lab 07 - MFA
