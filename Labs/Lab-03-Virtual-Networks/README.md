@@ -1,4 +1,4 @@
-# Lab 03 - Azure Virtual Networks
+# Lab 04 - Azure Virtual Networks
 
 ## Objective
 
