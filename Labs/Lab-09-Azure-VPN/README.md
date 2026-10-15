@@ -48,3 +48,10 @@ Point-to-Site VPNs are designed for individual users and devices.
 Site-to-Site VPNs connect entire networks together and are commonly used for hybrid cloud deployments.
 
 A Site-to-Site VPN would be the preferred solution for connecting an office network to Azure resources on a permanent basis.
+
+
+## Existing Knowledge Applied
+
+I already had an understanding of VPN concepts through managing business networking equipment and firewall infrastructure.
+
+This lab helped me understand how Azure VPN Gateway performs a similar function within Azure and how hybrid networking is achieved between on-premises environments and cloud resources.
