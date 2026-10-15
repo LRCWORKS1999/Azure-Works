@@ -22,7 +22,7 @@ This repository documents my journey learning Microsoft Azure, studying for AZ-1
 - [x] Lab 07 - MFA
 - [x] Lab 08 - Azure Backup
 - [x] Lab 09 - Azure VPN
-- [ ] Lab 10 - Hybrid Identity
+- [x] Lab 10 - Hybrid Identity
 
 ## Projects
 
