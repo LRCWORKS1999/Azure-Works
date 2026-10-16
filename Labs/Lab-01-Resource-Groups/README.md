@@ -25,8 +25,7 @@ Resource Groups provide a logical container for Azure resources.
 
 Tags can be used for organisation, reporting and cost tracking.
 
-<img width="1013" height="446" alt="lab01RG" src="https://github.com/user-attachments/assets/bac2cede-9a6b-4f10-a6b5-c46afe5cabdf" />
-<img width="1009" height="443" alt="Lab01RG2" src="https://github.com/user-attachments/assets/567b9023-c7fc-4af2-910d-6caaebf41a10" />
+
 
 
 
