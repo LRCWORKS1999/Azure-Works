@@ -44,7 +44,4 @@ Azure automatically creates supporting resources such as:
 
 ## Screenshots
 
-<img width="1620" height="852" alt="image" src="https://github.com/user-attachments/assets/64de7ead-aba0-4a04-a983-de2feccd9e45" />
-<img width="1850" height="838" alt="image" src="https://github.com/user-attachments/assets/b00cf632-61ef-4e12-a460-3988f3481ecb" />
-<img width="1762" height="816" alt="image" src="https://github.com/user-attachments/assets/d725dae5-c448-4eac-b0a8-0733f3988603" />
 
