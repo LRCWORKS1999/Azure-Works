@@ -32,7 +32,6 @@ Subnets are used to segment resources into smaller network boundaries for securi
 
 Network segmentation can help reduce lateral movement if a device or user account becomes compromised.
 
-<img width="1905" height="887" alt="image" src="https://github.com/user-attachments/assets/74f2818c-bcfa-452e-b4e5-69f3292f4b15" />
-<img width="1846" height="910" alt="image" src="https://github.com/user-attachments/assets/f3d4da2b-8c10-438d-a544-ae14e6b3446e" />
+
 
 
