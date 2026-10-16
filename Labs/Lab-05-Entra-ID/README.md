@@ -47,10 +47,5 @@ Examples include:
 
 ## Screenshots
 
-<img width="1153" height="511" alt="image" src="https://github.com/user-attachments/assets/5f3b564c-1c83-4099-86df-dbc0dd845642" />
-<img width="1562" height="864" alt="image" src="https://github.com/user-attachments/assets/41b4ae87-b36a-46b7-b220-d26fd27a1eac" />
-<img width="1828" height="822" alt="image" src="https://github.com/user-attachments/assets/0cb04672-f9f1-41df-9a9c-674b6ca3fb4d" />
-<img width="1332" height="44" alt="image" src="https://github.com/user-attachments/assets/ddd654a4-b526-4154-84ba-c38270ed74e7" />
-<img width="1402" height="36" alt="image" src="https://github.com/user-attachments/assets/ceef03d8-420a-436a-a930-3d8945b9cc2d" />
-<img width="1384" height="44" alt="image" src="https://github.com/user-attachments/assets/590a8aa6-70cc-4b5e-8b14-5ce11e1c36aa" />
+
 
